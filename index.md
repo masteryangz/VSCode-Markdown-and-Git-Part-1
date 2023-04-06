@@ -8,7 +8,9 @@ I am **computer engineering** student from *China*. Here is a [picture of me](/i
 
 ##2
 
-I like ~~sport~~playing games. My favorite game right now is [***Sid Meyer's Civilization 6***](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/). And a ![picture of the game](https://play-lh.googleusercontent.com/FNb_gAYESccWOzlK5Sok5pteveYZnRFVnm4UDtNFTxx3KPXduzw2gnkexPMzqq85yWQ-=w526-h296-rw)
+I like ~~sport~~playing games. My favorite game right now is [***Sid Meyer's Civilization 6***](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/). And a picture of the game 
+
+![picture of the game](https://play-lh.googleusercontent.com/FNb_gAYESccWOzlK5Sok5pteveYZnRFVnm4UDtNFTxx3KPXduzw2gnkexPMzqq85yWQ-=w526-h296-rw)
 
 
 ##3
