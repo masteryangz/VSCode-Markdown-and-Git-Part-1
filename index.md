@@ -12,9 +12,9 @@ And I say
 `I am already studying hard enough`
 ##4
 I also like dinosaurs. My favorite dinosaur list:
--Microraptor
--spinosaurus
--scythosaurus
+- Microraptor
+- spinosaurus
+- scythosaurus
 Here is how I would rank them:
 1. spinosaurus
 2. scythosaurus
