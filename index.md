@@ -5,7 +5,9 @@ I am **computer engineering** student from *China*. Here is a [picture of me](/i
 I like ~~sport~~playing games. My favorite game right now is [***Sid Meyer's Civilization 6***](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/). 
 ##3
 My parents always say 
+
 > study hard and play less [game](##2)
+
 And I say 
 `I am already studying hard enough`
 ##4
