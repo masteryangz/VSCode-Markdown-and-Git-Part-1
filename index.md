@@ -27,6 +27,6 @@ Here is how I would rank them:
 
 ##5
 Right now I completed
--[x] CSE100
--[x] CSe101
--[ ] CSE110
+- [x] CSE100
+- [x] CSe101
+- [ ] CSE110
